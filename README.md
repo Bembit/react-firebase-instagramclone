@@ -1,5 +1,5 @@
-live - https://madbence-shareyourlife.herokuapp.com/
+# Instagram like feed in React and Redux with Firebase backend
 
-set up your own firebase, insert credentials into database/config.js as var config = { your stuff here };
+2017 era React study project with Redux and Firebase.
 
-npm start
+Deprecated and archived.
